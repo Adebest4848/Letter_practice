@@ -1,19 +1,38 @@
 .let{
     background-color: lightblue;
-}
-
-.bul{
+    width: 500px;
     padding-top: 30px;
     padding-bottom: 20px;
-    padding-left: 20px;
-    font-family: sans-serif;
+    text-align: center;
+    font-family: serif;
     font-size: 20px;
+    line-height: 20px;
 }
 
 .Add{
     text-align: center;
-    font-family: sans-serif;
-    border-bottom: 2px solid black;
+    font-family: serif;
+    border-bottom: 1px solid black;
+    line-height: 15px;
+}
+
+.Today{
+    padding-left: 20px;
+    line-height: 15px;
+    font-family: serif;
+}
+
+.para{
+    padding-left: 20px;
+    font-family: serif;
+    line-height: normal;  
+}
+
+.body{
+    width: 500px;
+    background-color
+    
+
 }
 
     
